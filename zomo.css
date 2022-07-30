@@ -1,0 +1,197 @@
+.Filters{
+    display: inline-block;
+    width: 30%;
+    height: 562px;
+    margin-left: 30px;
+    vertical-align: top;
+    border: 1px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 1px 3px 6px #00000029;
+    margin: 10px;
+    opacity: 1;
+    
+
+   
+}
+.test{
+    margin-left: 40px;
+}
+.result{
+    display: inline-block;
+    width: 60%;
+    margin-left: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+}
+.item-result{
+    height: 255px;
+    margin-bottom: 20px;
+    
+}
+.heading{
+    font-size: 30px;
+    font-weight: 100px;
+    color: #192F60;
+    margin: 30px;
+    font: normal normal bold 36px/55px Poppins;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+.header{
+    background-color: #EB2929;
+    height: 52px;
+    
+
+}
+.select{
+    width: 253px;
+    height: 38px;
+}
+.rightimg{
+    position: absolute;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.h{
+    position: absolute;
+    top: 31px;
+    margin-left: 178px;
+    text-align: left;
+    text-align: left;
+    width: 303px;
+    height: 43px;
+    font: normal normal 600 30px/46px Poppins;
+    color: #192F60;
+
+
+}
+.subheading{
+    position: absolute;
+    top: 78px;
+    margin-left: 178px;
+    text-align: left;
+    text-align: left;
+    width: 40px;
+    height: 23px;
+    color: #192F60;
+    font: normal normal medium 16px/30px Poppins;
+
+}
+.subsubheading{
+    position: absolute;
+    top: 105px;
+    margin-left: 178px;
+    text-align: left;
+    text-align: left;
+    width: 366px;
+    height: 23px;
+    color: #192F60;
+    font: normal normal medium 16px/30px Poppins;
+
+}
+.line{
+    position: absolute;
+    top: 147px;
+    left: 38px;
+    width: 800px;
+    height: 0px;
+    border: 1px solid #DEDFE5;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    border-radius: 25px;
+    margin-left: 45px;
+    margin-top: 26px;
+}
+.cost{
+    margin-left: 62px;
+    margin-top: 50px;
+    width: 121px;
+    height: 50px;
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #636F88;
+    
+}
+.amount{
+    margin-left: 233px;
+    margin-top: -51px;
+    width: 69px;
+    height: 50px;
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #636F88;
+
+}
+.shree{
+    position: absolute;
+    top: 58%;
+    margin-left: 475px;
+}
+.login{
+    position: absolute;
+    margin-left: 80%;
+    width: 78px;
+    height: 35px;
+    top: 1%;
+    background-color: #EB2929;
+   border: rosybrown;
+   color: white;
+}
+.account{
+    position: absolute;
+    margin-left: 86%;
+    width: 147px;
+    height: 35px;
+    top: 1%;
+    background-color: #EB2929;
+    border: 1px solid #FFFFFF;
+    color: white;
+
+}
+.e{
+    position: absolute;
+    top: 1%;
+    margin-left: 73px;
+    font-size: 60px;
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 80%;
+    text-align: center;
+    color: #EB2929;
+    font: normal normal 600 41px/39px Poppins;
+  
+}
+.border{
+   display: inline-block;
+   letter-spacing:18px;
+   color: #8C96AB;
+   background: #FBFBFB 0% 0% no-repeat padding-box;
+   text-align: center;
+   border: 1px solid #8C96AB;
+   border-radius: 7px;
+   margin: 5px
+   
+}
+.ol{
+    margin-left: 50%;
+
+    
+}
+.bg{
+    background-color: #8C96AB;
+}
+.work{
+    width: 40px;
+    height: 40px;
+    border: 1px solid #8C96AB;
+   border-radius: 7px;
+   text-align: center;
+}
